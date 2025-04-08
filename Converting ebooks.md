@@ -1,0 +1,22 @@
+### Conversion errors
+- [ ] Organelle: creating patches in pure data
+- [x] Collected Works of Aristotle 1 and 2
+- [ ] How It Is - V.F. Cordova
+- [ ] non-binary: a moody book of complicated feelings
+- [ ] Modular Synthesizer Mastery - Volume 0
+- [ ] Modular Synthesizer Mastery - Volume 1
+- [ ] Modular Synthesizer Mastery - Volume 2
+- [ ] Modular Synthesizer Mastery - Volume 3
+- [x] The Will to Change
+- [x] State of Insecurity - Governing of the Precarious
+- [ ] Modern Method for Guitar - Volume 1
+- [x] Guitar Aerobics
+- [ ] Lazarus Volume 1 - Greg Rucka
+- [ ] Lazarus Volume 2 - Greg Rucka
+- [ ] Progressive Steps to Syncopation for the Modern Drummer: Drum Set (Ted Reed Publications)
+- [ ]  Stick Control: For the Snare Drummer
+- [ ] Marx in the Anthropocene
+ - [ ] Biking Across America: My Coast-to-Coast Adventure and the People I Met Along the Way
+ - [x] From Nature to Creation (The Church and Postmodern Culture)
+### Don't have
+- [X] Lower Ed - Tressie McMillan Cottom

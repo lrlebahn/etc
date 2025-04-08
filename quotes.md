@@ -1,0 +1,3 @@
+# quotes
+
+"I wanted to pursue things, but I could not match the means of knowing that came naturally to me with the expectations of my professors. The pursuit of knowing was freedom to me, the right to declare your own curiosities and follow them through all manner of books. I was made for the library, not the classroom. The classroom was a jail of other people's interests. The library was open, unending, free." - Ta-Nehisi Coates

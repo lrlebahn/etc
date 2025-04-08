@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "3e4844c97f960300",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f7ac7d1688c566",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ccdd01bdd15abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Converting ebooks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Converting ebooks"
+            }
+          },
+          {
+            "id": "fc03294817186d4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "links/20250325.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250325"
+            }
+          },
+          {
+            "id": "882b1dba178384c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24786c69a561d87f",
+    "type": "split",
+    "children": [
+      {
+        "id": "31081f6720fe8ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb74d97e9270dbec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "97e0ea034cdbd1af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c16c9fc044c33fb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74708e2cf3d24519",
+    "type": "split",
+    "children": [
+      {
+        "id": "e049a0ac0f891e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55e37920eca1929",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "86b312e5ce49b7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b66d84500a20ce9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "535e0b27de0040c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "882b1dba178384c9",
+  "lastOpenFiles": [
+    "Mutual aid.md",
+    "[.md",
+    "links/20250325.md",
+    "funemployment.md",
+    "writing/goals.md",
+    "writing/Work.md",
+    "Converting ebooks.md",
+    "Pasted image 20250212102752.png",
+    "Pasted image 20250220100508.png",
+    "Pasted image 20250212103519.png",
+    "Pasted image 20250212102621.png",
+    "philosophy/epistemology/AI.md",
+    "ecology/Propaganda of the seed.md",
+    "writing/writing.md",
+    "Body/Gender.md",
+    "philosophy/epistemology/epistemology.md",
+    "links/20250213.md",
+    "philosophy/Politics/Chronicles of ACAB.md",
+    "philosophy/Politics/colonialism/Palestine and Israel.md",
+    "philosophy/Politics/texts/ten blows against politics.md",
+    "philosophy/Politics/Anarchy/Action.md",
+    "philosophy/Politics/Politics.md",
+    "philosophy/Politics/colonialism/imperialism.md",
+    "philosophy/Politics/Anarchy/Anarchy.md",
+    "philosophy/Politics/Marxism.md",
+    "philosophy/Politics/colonialism/colonialism.md",
+    "philosophy/Politics/Anti-civics.md",
+    "philosophy/Politics/economics.md",
+    "philosophy/Politics/Anarchy/Revolution.md",
+    "philosophy/Politics/Anarchy/Theory.md",
+    "philosophy/Politics/Reading Notes",
+    "philosophy/Politics/colonialism",
+    "philosophy/Politics/Anarchy",
+    "philosophy/Politics/texts",
+    "philosophy/Politics",
+    "philosophy/epistemology",
+    "philosophy/spirituality_o)))",
+    "philosophy",
+    "ecology",
+    "writing"
+  ]
+}

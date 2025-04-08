@@ -1,0 +1,19 @@
+### Fake oblique strategies kind of thing
+- fake counterpoint
+- antihero
+    - pick a musician, and do the opposite of what they do
+- 23rd century polka
+- guilty pleasure
+- innocent pleasure
+- recreate your earliest musical memory
+- redeem the worst genre
+- court your musical instrument
+- flirt with a song
+- slow gabber 
+- round/cannon
+- sew a quilt with sound
+- no time signature
+- no MIDI allowed
+- no electricity allowed
+- modal
+- 

@@ -1,0 +1,10 @@
+- settler colonialism
+- Trans theory
+- Music
+	- Improvisation/performance
+	- Rhythm
+	- Computer music
+- growing Food
+- ecology
+- knitting
+- Anarchistic action

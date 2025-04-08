@@ -1,0 +1,1 @@
+<img src="/static/images/strangebeast.jpg" alt="3 card draw from strange beast tarot - eight of swords, the empress, six of wands" style="width:600px;"/>

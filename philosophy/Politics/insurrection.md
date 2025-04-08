@@ -1,0 +1,2 @@
+* [The shithole I call home... cooptation in Milwaukee's George Floyd Rebellion](https://redvoice.news/the-shithole-i-call-home-cooptation-in-milwaukees-george-floyd-rebellion/?fbclid=IwAR00Pu0tEwxEl2b_TETea646cyJENf1BfyuiWCHYudt_Wo52il69L56lbrQ)
+* [Please read the reportbacks from recent actions in Oakland, Tacoma, and elsewhere—there’s a lot of counterinsurgency happening, unfortunately coming from organizers who are supposed to be for Palestine. Feel free to share links to them below.](https://twitter.com/ytnessisdeath/status/1722266994421243962)
