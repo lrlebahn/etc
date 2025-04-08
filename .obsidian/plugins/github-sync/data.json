@@ -1,7 +1,7 @@
 {
   "remoteURL": "https://github.com/lrlebahn/etc.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 5,
   "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
